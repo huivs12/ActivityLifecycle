@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidLifecycle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">打开Activity2, 查看生命周期方法执行顺序</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="back">返回到上一个Activity，查看生命周期方法执行顺序</string>
+    <string name="reopen">重新打开上一个Activity</string>
+</resources>
